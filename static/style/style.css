@@ -1082,7 +1082,7 @@ border: 1px solid #B3B3B3;
 #footer a:visited,
 #footer a:active,
 #footer a:hover {
-    color: #1E6297;
+    color: #91cce2;
 }
 /******************** Page by page styles (listed by navigation order) ********************/
 /* Login page */
@@ -2041,5 +2041,13 @@ table.mceLayout td.mceToolbar td {
 	background-color: #c5e2ed;
     border-bottom: 1px solid #c5e2ed;
     padding: 10px 10px 5px;
+}
+
+.sideblock .sidebar-header p {
+	color: #407598;
+}
+
+#footer-wrap #footer #footer-nav {
+	font-size: 14px;
 }
 /* @end */
