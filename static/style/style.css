@@ -360,26 +360,30 @@ div.pagination a {
 #sub-nav {
     font-weight: normal;
     background: #407598;
+    margin-left: auto;
+    margin-right: auto;
+    width: 64%;
+    border-radius: 10px;
 }
 #sub-nav li a,
 #sub-nav li a:link,
 #sub-nav li a:visited,
 #sub-nav li a:active {
-    color: #474220;
-    border-right: 1px solid #b1b1b1;
-    border-left: 1px solid #dddddd;
+    color: #fff;
+    border-right: 1px solid #29a1c4;
+    border-left: 1px solid #29a1c4;
 }
 #sub-nav li a:hover {
-    color: #7e7327;
+    color: #fff;
 }
 #sub-nav li.selected a,
 #sub-nav li.selected a:link,
 #sub-nav li.selected a:visited,
 #sub-nav li.selected a:active {
     background: #FFFFFF url(../images/submenu-active.gif) repeat-x right top;
-    color: #4c711d;
-    border-right: 1px solid #c1c1c1;
-    border-left: 1px solid #dddddd;
+    color: #407598;
+    border-right: 1px solid #29a1c4;
+    border-left: 1px solid #29a1c4;
 }
 #sub-nav li:first-child a,
 #sub-nav li:first-child a:link,
