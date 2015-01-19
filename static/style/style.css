@@ -1019,7 +1019,6 @@ border: 1px solid #B3B3B3;
 
 .sideblock {
     background: #fff;
-    padding: 3px 10px;
     border: 1px solid #e7e7e7;
     margin-top: 10px;
     border-radius: 5px;
@@ -1074,9 +1073,8 @@ border: 1px solid #B3B3B3;
 }
 /******************** Footer ********************/
 #footer-wrap {
-    color: #ccc;
-    background: #000;
-    border-top: 3px solid #30add1;
+    color: #91cce2;
+    background: #407598;
     padding: 10px;
 }
 #footer a,
@@ -1982,7 +1980,7 @@ table.mceLayout td.mceToolbar td {
 .sideblock .sidebar-header h3,
 .sideblock .sidebar-header a {
 	font-size: 15px !important;
-	color: #888 !important;
+	color: #407598 !important;
 	line-height: 26px;
 	margin-bottom: 5px;
 	text-transform: uppercase;
@@ -2039,5 +2037,9 @@ table.mceLayout td.mceToolbar td {
 	content: "\f01c";
 }
 
-
+.sideblock .sidebar-header {
+	background-color: #c5e2ed;
+    border-bottom: 1px solid #c5e2ed;
+    padding: 10px 10px 5px;
+}
 /* @end */
