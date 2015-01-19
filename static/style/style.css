@@ -37,7 +37,6 @@
 body, body#micro{
     border-top:3px solid #29a1c4;
     font-family: "PT Sans", Arial, Helvetica, sans-serif;
-    background: white url(../images/body.png) repeat;
     line-height: 25px;
     text-shadow: none !important;
     color: #444;
@@ -282,7 +281,6 @@ div.pagination a {
 #top-wrapper {
 	padding: 12px 0px 0px 0px;
 	border-bottom: 1px solid #DDD;
-	background: url(../images/header.png) repeat;
 }
 #mainmiddlewrap {
     background: transparent;
@@ -303,7 +301,7 @@ div.pagination a {
 }
 /******************** Main navigation ********************/
 .main-nav {
-    background: #2dadcc;
+    background: #407598;
     font-family: "PT Sans", Arial, Helvetica, sans-serif;
     font-size: 13px;
     font-weight: normal !important;
@@ -312,7 +310,7 @@ div.pagination a {
 }
 
 .main-nav .dropdown-sub li a, .main-nav .dropdown-sub li a:link, .main-nav .dropdown-sub li a:visited, .main-nav .dropdown-sub li a:active {
-	background: #2dadcc;
+	background: #407598;
 }
 
 .main-nav li a, .main-nav li a:link, .main-nav li a:visited, .main-nav li a:active {
@@ -329,7 +327,7 @@ div.pagination a {
 .main-nav li a:link,
 .main-nav li a:visited,
 .main-nav li a:active {
-    background: #2dadcc;
+    background: #407598;
     color: #FFFFFF;
     border-left: 0px;
     border-right: 1px solid #29a1c4;
@@ -346,7 +344,7 @@ div.pagination a {
 .main-nav li.selected a:visited,
 .main-nav li.selected a:active {
     color: #fff;
-    background: #2dadcc;
+    background: #407598;
     border-right: 1px solid #29a1c4;
     border-left: 0px;
 }
@@ -359,7 +357,7 @@ div.pagination a {
 /******************** Sub navigation ********************/
 #sub-nav {
     font-weight: normal;
-    background: #2dadcc;
+    background: #407598;
 }
 #sub-nav li a,
 #sub-nav li a:link,
